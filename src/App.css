@@ -33,7 +33,6 @@ h1 {
   position: relative;
   gap: 5px;
   height: 100%;
-  /* background-color: rgb(192, 158, 223); */
   border: 2px solid rgb(192, 158, 223);
   min-height: 210px;
   padding: 10px;
@@ -61,6 +60,11 @@ input[type='submit'] {
   font-weight: bold;
   color: black;
   cursor: pointer;
+}
+
+.title{
+  font-weight: bold;
+  margin-top: 8px;
 }
 
 .description {
