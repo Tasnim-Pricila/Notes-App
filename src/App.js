@@ -16,7 +16,6 @@ function App() {
     setNotes(filter);
   }
 
-  console.log(notes)
   return (
     <div>
       <h1>Note App</h1>
